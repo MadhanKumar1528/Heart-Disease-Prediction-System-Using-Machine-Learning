@@ -1,0 +1,2 @@
+# Heart-Disease-Prediction-System-Using-Machine-Learning
+Developed an AI-powered healthcare platform (CardioAI) for real-time heart disease risk prediction using a Random Forest Classifier trained on the UCI Cleveland dataset. Implemented secure authentication, real-time analytics, explainable AI insights, PDF clinical reporting, and interactive dashboards using React.js, FastAPI, and Scikit-Learn.
